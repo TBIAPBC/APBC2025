@@ -20,14 +20,16 @@ public class SocioGramming_HelloWorld{
     e.printStackTrace();
     }
     
-    try{
-    FileWriter outPut = new FileWriter("HelloWorld-SocioGramming.out");
+   /* try{
+    FileWriter outPut = new FileWriter("HelloWorld-SocioGramming.out");     now in console
     outPut.write("Hello World!\n" +str_line);
     
     outPut.close();
     }
     catch(IOException e){
     e.printStackTrace();
-    }
+    }*/
+  System.out.print("Hello World!\n" + str_line + "\n");
+  
   }
 }

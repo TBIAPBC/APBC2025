@@ -13,9 +13,9 @@ ifstream data; data.open("HelloWorld-test1.in");
 getline(data, str_in);
 data.close();
 
-ofstream file; file.open("HelloWorld-SocioGramming.out");
-file << "Hello World!\n" << str_in;
-file.close();
+//ofstream file; file.open("HelloWorld-SocioGramming.out"); now in the consol  
+cout << "Hello World!\n" << str_in << "\n";
+//file.close();
 
 
 
