@@ -31,17 +31,17 @@ Please note: As we will meet on Tuesdays, the latest possible date for submissio
 
 * Apr-08-2025 (A2) --- Optimization
 
-* Apr-22-2025 (A3) --- Dynamic programming
+* Apr-29-2025 (A3) --- Dynamic programming
 
-* May-06-2025 (A6) --- Team Project I (planning meeting)
+* May-13-2025 (A6) --- Team Project I (planning meeting)
 
-* May-13-2025 (A6) --- Team Project II (coordination meeting)
+* May-27-2025 (A6) --- Team Project II (coordination meeting)
 
-* May-20-2025 (A6) --- Team Project III
+* Jun-03-2025 (A6) --- Team Project III
 
-* May-27-2025 (A6) --- Team Project IV
+* Jun-10-2025 (A6) --- Team Project IV
 
-* Jun-10-2025 (A6) --- Team Project V
+* Jun-17-2025 (A6) --- Team Project V
 
 * Jun-24-2025 (A6) --- Final Project Meeting: Battle of the Robots
 
