@@ -57,8 +57,6 @@ def getDMX(dignl, strMtrx1, strMtrx2, *args):
         strMtrx3 = args[0]
     
     graph = nx.DiGraph()
-    deineMudda = {}
-    gehtmirwohin = []
     print(len(strMtrx1), " ",len(strMtrx1[0]), "\n",len(strMtrx2), " ",len(strMtrx2[0]))
     
     if(dignl != True):
