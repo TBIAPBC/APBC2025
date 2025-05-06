@@ -33,7 +33,7 @@ Please note: As we will meet on Tuesdays, the latest possible date for submissio
 
 * Apr-29-2025 (A3) --- Dynamic programming
 
-* May-13-2025 (A6) --- Team Project I (planning meeting)
+* May-06-2025 (A6) --- Team Project I (planning meeting)
 
 * May-27-2025 (A6) --- Team Project II (coordination meeting)
 
