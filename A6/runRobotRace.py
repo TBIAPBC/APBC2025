@@ -20,8 +20,11 @@ parser.add_argument('--allow_jumps', help="allow players to jump over walls by r
 
 args = parser.parse_args()
 
-robot_module_names = {"Test":"test-RobotRace",
-					"Beatme": "beatme-RobotRace"}
+robot_module_names = {"Rennig":"ewearpel-RobotRace",
+					  "Beat": "beatme-RobotRace",
+                      "Erratic": "test-RobotRace",
+                      "Adlhart": "adlhartm-RobotRace",
+					  }
 
 robotmodules = { m:__import__(m) for m in robot_module_names.values() }
 
